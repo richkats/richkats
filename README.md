@@ -1,5 +1,39 @@
-### Hi there 👋
+# Hi there I'm Sergey 👋
 
+## IT-student from Surgut, Russia 🇷🇺
+
+- I'm currently vacant for a job!
+
+- 🐍 Python-developer
+
+- 🏃 I'm a fast-learner
+
+- 🎯 Best at:
+  - Backend-development
+  - Bot-development
+  - Scrapping
+  - Misc scripting
+  - System design
+  - DB-management
+
+- 🏳️ Developer and organizer at [@surctf](https://github.com/surctf)
+
+- 😎 ...Also I'm developing some small projects at [@coolsadsquad](https://github.com/surctf)
+
+- 🌐 Learned backend frameworks:
+  - FastAPI
+  - Flask
+
+- 💾 Learned DBs:
+  - SQLite
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+
+- Other interests:
+  - 🎵 Music
+  - 🔒 IT-Sec
+  - 🏳️ CTF Competitions
 <!--
 **richkats/richkats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
