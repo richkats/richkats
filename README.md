@@ -18,7 +18,7 @@
 
 - 🏳️ Developer and organizer at [@surctf](https://github.com/surctf)
 
-- 😎 ...Also I'm developing some small projects at [@coolsadsquad](https://github.com/surctf)
+- 😎 ...Also I'm developing some small projects at [@coolsadsquad](https://github.com/coolsadsquad)
 
 - 🌐 Learned backend frameworks:
   - FastAPI
